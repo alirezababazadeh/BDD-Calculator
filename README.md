@@ -21,4 +21,4 @@
 (https://github.com/alirezababazadeh/BDD-Calculator/assets/45295180/38a6cfec-fd95-4d32-af3e-3f92a0cddd35)
 (https://github.com/alirezababazadeh/BDD-Calculator/assets/45295180/1348d589-c6c0-47c4-9252-b057bcfdf6f6)
 
-همانطور که در آخرین شکل مشخص است، اروری مشاده نشده است.
+همانطور که در آخرین شکل مشخص است، اروری مشاهده نشده است.
